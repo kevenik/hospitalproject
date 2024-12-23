@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Town Hospital",
+    "pat_cnt": 2000,
+    "location": "Pettah"
+  },
+  {
+    "name": "City Hospital",
+    "pat_cnt": 2000,
+    "location": "ekm"
+  },
+  {
+    "name": "Cosmo",
+    "pat_cnt": 1000,
+    "location": "trivandrum"
+  },
+  {
+    "name": "SUT",
+    "pat_cnt": 1200,
+    "location": "NDD"
+  },
+  {
+    "name": "KIMS",
+    "pat_cnt": 1500,
+    "location": "tvm"
+  },
+  {
+    "name": "hiba",
+    "pat_cnt": 200,
+    "location": "tvm"
+  }
+]
